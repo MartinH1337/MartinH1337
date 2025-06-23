@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MartinH1337
 - 👀 I’m interested in abap, S/4, CDS
-- 🌱 I’m currently learning CDS
+- 🌱 I’m currently learning ~~CDS~~ RAP
 - 💞️ I’m looking to collaborate on ... abap open checks, code pal for abap
 - 📫 How to reach me ...
 
